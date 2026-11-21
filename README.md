@@ -3,7 +3,7 @@
 [Español](#esp) / [English](#eng)
 <a name="esp"></a>
 ## ¡Saludos! Soy Marielvia Izaguirre
-Estudiante de la carrera de Licenciatura en Informática en Venezuela
+Estudiante de la carrera de Licenciatura en Informática en Venezuela <br><br> **Poseo experiencia con:** <br> C, R, C#, JavaScript, HTML5, Python, SQL, Haskell, Racket, Dart, Julia <br> _Aún en aprendizaje y repaso constante_ <br><br> **Proyectos destacados:** <br>
 
 <a name="eng"></a>
 ## Greetings! I'm Marielvia Izaguirre
