@@ -1,5 +1,13 @@
-## Hi there 👋
+<div align = "center">
 
+[Español](#esp) / [English](#eng)
+<a name="esp"></a>
+## ¡Saludos! Soy Marielvia Izaguirre
+Estudiante de la carrera de Licenciatura en Informática en Venezuela
+
+<a name="eng"></a>
+## Greetings! I'm Marielvia Izaguirre
+Programming and computer science student in Venezuela
 <!--
 **MarIzaguirre/MarIzaguirre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
